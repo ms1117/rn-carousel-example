@@ -1,4 +1,4 @@
-# react-native-Unsplash-example
+# rn-carousel-example(used Unsplash API)
 
 ## Install
  Follow installation of [React-Native CLI QuickStart](https://facebook.github.io/react-native/docs/getting-started)
